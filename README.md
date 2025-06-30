@@ -16,7 +16,7 @@ Key Features
 🎯 90%+ accuracy in real-world conditions
 
 Railway-People-Counter/
-├── main.py                    # Complete standalone implementation
+├── train_github.py                    # Complete standalone implementation
 ├── sort.py                    # SORT tracker (required dependency)
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Documentation
