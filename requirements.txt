@@ -1,0 +1,8 @@
+# Core requirements
+ultralytics==8.0.0
+opencv-python==4.5.5.64
+numpy==1.23.5
+
+# Optional for GPU acceleration
+torch==1.12.1+cu113 ; sys_platform == 'linux'
+torch==1.12.1+cu116 ; sys_platform == 'win32'
